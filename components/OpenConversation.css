@@ -1,0 +1,6 @@
+.container-1{
+ 
+   display: flex;
+   flex: column;
+   border: 5px solid black;
+}
